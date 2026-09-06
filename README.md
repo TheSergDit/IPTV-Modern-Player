@@ -47,7 +47,48 @@ IPTV Modern Player allows you to watch IPTV channels from M3U8 playlists and URL
 
 ## Screenshots
 
-*Coming soon.*
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><strong>Main Menu</strong></td>
+<td align="center"><strong>Normal Window</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/MainMenu.png" width="450"></td>
+<td><img src="screenshots/NormalWindow.png" width="450"></td>
+</tr>
+
+<tr>
+<td align="center"><strong>TV Guide</strong></td>
+<td align="center"><strong>Compact Overlay</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/TvGuide.png" width="450"></td>
+<td><img src="screenshots/CompactOverlay.png" width="450"></td>
+</tr>
+
+<tr>
+<td align="center"><strong>Profiles</strong></td>
+<td align="center"><strong>Settings</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/Profiles.png" width="450"></td>
+<td><img src="screenshots/Settings.png" width="450"></td>
+</tr>
+
+<tr>
+<td align="center"><strong>Default</strong></td>
+<td align="center"><strong>Default</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/Default_01.png" width="450"></td>
+<td><img src="screenshots/Default_02.png" width="450"></td>
+</tr>
+</table>
+
+</div>
+
 
 ## Download
 
