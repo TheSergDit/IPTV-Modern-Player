@@ -1,0 +1,26 @@
+Third-party software
+====================
+
+This application uses third-party software
+components distributed under their respective
+licenses.
+
+LibVLCSharp
+-----------
+Copyright © VideoLAN contributors
+License: LGPL-2.1
+
+libVLC / VLC
+------------
+Copyright © VideoLAN contributors
+License: LGPL-2.1-or-later
+
+CommunityToolkit.Mvvm
+---------------------
+Copyright © .NET Foundation and Contributors
+License: MIT
+
+Microsoft Windows App SDK
+-------------------------
+Copyright © Microsoft Corporation
+License: MIT
