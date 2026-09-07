@@ -126,20 +126,12 @@ You are responsible for the content you access through the application and for e
 
 Have a question, found a bug, or have an idea for IPTV Modern Player?
 
-* 🐛 **Bug reports** — [open an issue](../../issues/new)
-* 💡 **Feature requests & suggestions** — [start a discussion](../../discussions)
+* 🐛 **Bug reports** — [report a bug](../../issues/new/choose)
+* 💡 **Feature requests** — [share your idea](../../discussions)
 * ❓ **Questions & help** — [ask a question](../../discussions)
+* 💬 **General discussion** — [join the discussion](../../discussions)
 
-Before opening a new issue, please check if the problem has already been reported.
-
-When reporting a bug, please include:
-
-* IPTV Modern Player version
-* Windows version
-* Steps to reproduce the problem
-* Expected and actual behavior
-* Screenshots or error messages, if available
-
+Before opening a new issue or discussion, please check if the topic has already been reported or discussed.
 
 ## Third-Party Software
 
