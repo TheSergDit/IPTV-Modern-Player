@@ -106,10 +106,11 @@ Choose the appropriate package for your system architecture.
 
 ## Installation
 
-1. Download the latest `.msixbundle` package from the [Releases](../../releases) page.
-2. Open the downloaded package.
-3. Follow the Windows installation prompts.
-4. Launch **IPTV Modern Player** from the Start menu.
+1. Open the [Releases](../../releases) page.
+2. Download the `.msix` package for your system architecture.
+3. Open the downloaded package.
+4. Follow the Windows installation prompts.
+5. Launch **IPTV Modern Player** from the Start menu.
 
 > **Note:** Windows may require you to trust the certificate used to sign the application when installing a package downloaded outside the Microsoft Store.
 
