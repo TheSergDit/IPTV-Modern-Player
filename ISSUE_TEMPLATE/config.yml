@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Questions & Help
+    url: ../../discussions
+    about: Ask questions and get help from the community.
+
+  - name: 💡 Ideas & Suggestions
+    url: ../../discussions/categories/ideas
+    about: Share ideas and suggestions for IPTV Modern Player.
