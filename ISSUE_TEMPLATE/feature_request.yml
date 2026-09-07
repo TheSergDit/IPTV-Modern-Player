@@ -1,0 +1,23 @@
+name: Feature Request
+description: Suggest an improvement or new feature
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature description
+      description: What would you like to see in IPTV Modern Player?
+      placeholder: Describe your idea.
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: Why would this feature be useful?
+      placeholder: Explain how you would use this feature.
+    validations:
+      required: false
