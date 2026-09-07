@@ -133,6 +133,16 @@ Have a question, found a bug, or have an idea for IPTV Modern Player?
 
 Before opening a new issue or discussion, please check if the topic has already been reported or discussed.
 
+## ❤️ Support the Project
+
+If you find **IPTV Modern Player** useful and would like to support its development, you can make a donation through one of the following services:
+
+* 🌟 **Boosty** — [Support the project](https://boosty.to/thesergdit)
+* 💜 **DonationAlerts** — [Make a donation](https://www.donationalerts.com/r/thesergdit_software)
+* 💳 **YooMoney** — [Support the project](https://yoomoney.ru/to/410012804353224)
+
+Your support helps with continued development, bug fixes, and new features. Thank you! ❤️
+
 ## Third-Party Software
 
 IPTV Modern Player uses third-party software components, including:
