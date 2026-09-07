@@ -122,6 +122,25 @@ You can use your own M3U8 files and stream URLs or services provided by your IPT
 
 You are responsible for the content you access through the application and for ensuring that your use of IPTV streams complies with applicable laws and the terms of your IPTV provider.
 
+## Feedback and Support
+
+Have a question, found a bug, or have an idea for IPTV Modern Player?
+
+* 🐛 **Bug reports** — [open an issue](../../issues/new)
+* 💡 **Feature requests & suggestions** — [start a discussion](../../discussions)
+* ❓ **Questions & help** — [ask a question](../../discussions)
+
+Before opening a new issue, please check if the problem has already been reported.
+
+When reporting a bug, please include:
+
+* IPTV Modern Player version
+* Windows version
+* Steps to reproduce the problem
+* Expected and actual behavior
+* Screenshots or error messages, if available
+
+
 ## Third-Party Software
 
 IPTV Modern Player uses third-party software components, including:
